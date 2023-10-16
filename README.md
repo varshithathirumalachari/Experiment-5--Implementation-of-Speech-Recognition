@@ -1,4 +1,4 @@
-# Experiment-5--Implementation-of-Speech-Recognition
+# Experiment-7--Implementation-of-Speech-Recognition
 
 ## Aim:
  Construct a python program to implement speech recognition.
